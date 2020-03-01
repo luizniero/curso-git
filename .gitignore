@@ -1,0 +1,5 @@
+#Arquivos que o GIT deve ignorar
+
+main.o
+Makefile.win
+Teste git.exe
