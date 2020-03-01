@@ -9,5 +9,6 @@ int main(int argc, char *argv[]) {
 	puts("Terceiro commit");
 	puts("commit sem mensagem");
 	puts("apos fazer o push para o github");
+	puts("apos fazer o git clone")
 	return 0;
 }
