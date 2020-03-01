@@ -7,5 +7,6 @@ int main(int argc, char *argv[]) {
 	puts("Hello world");
 	puts("Teste github");
 	puts("Terceiro commit");
+	puts("commit sem mensagem");
 	return 0;
 }
